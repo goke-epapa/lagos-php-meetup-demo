@@ -8,6 +8,7 @@ brew install haproxy
 ```
 ### Windows
 - [See instructions here](http://zcourts.com/2012/09/29/install-haproxy-on-windows-cygwin-good-for-testing/#sthash.P960VQz3.dpbs)
+
 ### Debian Linux
 ```
 sudo apt-get install haproxy
@@ -42,3 +43,6 @@ sudo apt-get install php5-redis
 ```
 ### Windows
 See [here](https://github.com/phpredis/phpredis/issues/213#issuecomment-11361242).
+
+## Authors
+Adegoke Obasa - [@goke_epapa](http://twitter.com/goke_epapa)
