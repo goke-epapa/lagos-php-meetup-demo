@@ -1,3 +1,4 @@
 <?php
-
-echo "Welcome to " . $_SERVER['SERVER_NAME'] . ' ' . $_SERVER['SERVER_PORT'];; 
+echo "Horizontal Scaling of PHP Applications";
+echo "<br/>";
+echo sprintf("I run on port %s", $_SERVER['SERVER_PORT']);
